@@ -4,11 +4,10 @@
 ## About Me  
 AI Engineer and Research Scientist with expertise in **Machine Learning (ML), Deep Learning (DL), Applied Mathematics, and Statistics**.  
 I have experience with **LLMs (fine-tuning, agentic AI), vision foundation models, MLOps, cloud services (Azure/AWS/GCP), and quantum ML**.  
-Currently an **Assistant Professor at the University of Copenhagen**, working on sustainable food formulation, healthcare AI, and quantum optimization.  
-
+Currently an **Assistant Professor at the University of Copenhagen**, working on sustainable food formulation, Food process modelling using Physics informed Machine Learning 
 ---
 
-- 🔭 I’m currently working on: Agentic AI for food research automation (CrewAI, LLMs, small language models), scientific ML/DL for sustainable food formulation, and quantum ML/optimization for real-world problems.  
+- 🔭 I have alo been working with: Agentic AI for food research automation (CrewAI, LLMs, small language models), scientific ML/DL for sustainable food formulation, and quantum ML/optimization for real-world problems.  
 - 🌱 I’m currently learning: Quantum computing with Qiskit, advanced MLOps practices, and small/edge AI models (Google AI Edge, NVIDIA Jetson).  
 - 👯 I’m looking to collaborate on: Applied AI/ML projects in **food, healthcare, and sustainability**, especially those integrating multimodal data (images, text, sensors).  
 - 🤔 I’m looking for help with: Scaling **symbolic regression** and **PINNs** to large, real-world industrial systems.  
