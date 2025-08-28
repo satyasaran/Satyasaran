@@ -4,7 +4,7 @@
 ## About Me  
 AI Engineer and Research Scientist with expertise in **Machine Learning (ML), Deep Learning (DL), Applied Mathematics, and Statistics**.  
 I have experience with **LLMs (fine-tuning, agentic AI), vision foundation models, MLOps, cloud services (Azure/AWS/GCP), and quantum ML**.  
-Currently an **Assistant Professor at the University of Copenhagen**, working on **sustainable food formulation** and **food process modeling using physics-informed machine learning**.  
+Currently an **Assistant Professor at the University of Copenhagen**, working on **sustainable food formulation** and **food process modeling using physics-informed machine learning and predictive ML modelling**.  
 
 My LLM agent: https://satyasaranchangdar.streamlit.app
 ---
