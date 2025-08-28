@@ -11,7 +11,7 @@ My LLM agent: https://satyasaranchangdar.streamlit.app
 
 - 🔭 I'm currently working on: developing models using inverse physics informed neural network for esimating some scientific parameters of Food process modelling!
 - 🌱 I’m currently learning: Quantum computing machine learning  with Qiskit, advanced MLOps practices, and small/edge AI models (Google AI Edge, NVIDIA Jetson).  
-- 👯 I’m looking to collaborate on: Applied AI/ML projects in **food, agriculture, healthcare, and sustainability**, especially those integrating multimodal data (images, text, sensors).  
+- 👯 I’m looking to collaborate on: Applied AI/ML projects in **Healthcare, Banking finacial sector, food, agriculture, and sustainability**, especially those integrating multimodal data (images, text, sensors).  
 - 🤔 I’m looking for help with: Scaling **symbolic regression** and **PINNs** to large, real-world industrial systems.  
 - 💬 Ask me about: Machine learning, deep learning, LLMs, agentic AI, computer vision, symbolic regression, and quantum ML.  
 - 📫 How to reach me: [satyasaran@gmail.com](mailto:satyasaran@gmail.com) · [LinkedIn](https://linkedin.com/in/satyasaran-changdar) · [GitHub](https://github.com/satyasaran)  
