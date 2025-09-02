@@ -16,7 +16,24 @@ My LLM agent: https://satyasaranchangdar.streamlit.app
 - 💬 Ask me about: Machine learning, deep learning, LLMs, agentic AI, computer vision, symbolic regression, and quantum ML.  
 - 📫 How to reach me: [satyasaran@gmail.com](mailto:satyasaran@gmail.com) · [LinkedIn](https://linkedin.com/in/satyasaran-changdar) · [GitHub](https://github.com/satyasaran)  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I’ve bridged careers from mathematics and engineering to AI research — from **bio-nano-fluid dynamics** to **quantum ML**!  
+- ⚡ Fun fact: I’ve bridged careers from mathematics and engineering to AI research — from **bio-nano-fluid dynamics** to **quantum ML**!
+
+  ## 🧠 Previous Deep Learning Research Work  
+Some selected earlier projects featured on my [personal webpage](https://satyasaran.github.io/):  
+
+- **RadiMax: Machine Learning for Understanding Plant Root Function**  
+  Built deep learning models (CNNs) to extract sub-soil root length (Sqrt_pRLD) from images in the RadiMax facility, linking root traits to water and nitrogen uptake in crops.  
+
+- **RadiMax: Deep Learning for Sub-soil Image Analysis**  
+  Applied **ResNet50** transfer learning to create regression and classification models estimating root length and analyzing deep root function.  
+
+- **Physics-Informed Neural Networks (PINNs) for Blood Flow PDEs**  
+  Implemented PINNs with **DeepXDE** to solve nonlinear PDEs modeling arterial blood flow under viscoelastic and magnetic effects, optimized with Bayesian methods.  
+
+- **Brain Tumor Segmentation with Multi-Planner U-Net (MPUnet)**  
+  Designed an automated segmentation pipeline for pediatric brain MRI, achieving robust tumor core and subregion detection across challenging datasets.  
+
+---
 
 ---
 <!--
