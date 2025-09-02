@@ -19,7 +19,7 @@ My LLM agent: https://satyasaranchangdar.streamlit.app
 - ⚡ Fun fact: I’ve bridged careers from mathematics and engineering to AI research — from **bio-nano-fluid dynamics** to **quantum ML**!
 
   ## 🧠 Previous Deep Learning Research Work  
-Some selected earlier projects featured on my [personal webpage](https://satyasaran.github.io/):  
+Some selected earlier projects (link: https://satyasaran.github.io/):  
 
 - **RadiMax: Machine Learning for Understanding Plant Root Function**  
   Built deep learning models (CNNs) to extract sub-soil root length (Sqrt_pRLD) from images in the RadiMax facility, linking root traits to water and nitrogen uptake in crops.  
