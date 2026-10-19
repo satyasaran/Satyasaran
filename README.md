@@ -3,14 +3,13 @@
 
 ## About Me  
 AI Engineer and Research Scientist with expertise in **Machine Learning (ML), Deep Learning (DL), Applied Mathematics, and Statistics**.  
-I have experience with **LLMs (fine-tuning, agentic AI), vision foundation models, MLOps, cloud services (Azure/AWS/GCP), and quantum ML**.  
-Currently an **Assistant Professor at the University of Copenhagen**, working on **sustainable food formulation** and **food process modeling using ML/DL/AI, physics-informed machine learning (PINNs, Physics Informed Neural Operators) and predictive ML modelling**.  
+I have experience with **LLMs (fine-tuning, agentic AI), vision foundation models, MLOps,and  cloud services (Azure/AWS/GCP)**.  
+Currently an **Assistant Professor at the University of Copenhagen**, working on ** sustainable food formulation** and **sustable food process modeling using ML/DL/AI, physics-informed machine learning (PINNs, Physics Informed Neural Operators) and predictive ML modelling**.  
 
-My LLM agent: https://satyasaranchangdar.streamlit.app
+  LLM agent: https://satyasaranchangdar.streamlit.app
 ---
 
 - 🔭 I'm currently working on: developing predictive models using inverse physics informed neural network for esimating some scientific parameters of Food process modelling!
-- 🌱 I’m currently learning: Quantum computing machine learning  with Qiskit
 - 👯 I’m looking to collaborate on: Applied AI/ML projects in **Healthcare, Banking financial sector, food, agriculture, and sustainability**, especially those integrating multimodal data (images, text, sensors).  
 - 🤔 I’m looking for help with: Scaling **symbolic regression**, **PINNs**, and **NO/PINO**to large/small, real-world industrial systems.  
 - 💬 Ask me about: Machine learning, deep learning, LLMs, agentic AI, computer vision, symbolic regression, and quantum ML.  
