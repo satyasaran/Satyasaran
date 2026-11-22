@@ -7,6 +7,8 @@ I have experience with **LLMs (fine-tuning, agentic AI), vision foundation model
 Currently an **Assistant Professor at the University of Copenhagen**, working on ** sustainable food formulation** and **sustable food process modeling using ML/DL/AI, physics-informed machine learning (PINNs, Physics Informed Neural Operators) and predictive ML modelling**.  
 
   LLM agent: https://satyasaranchangdar.streamlit.app
+  
+  Food Digital Twin: : https://fooddgt.streamlit.app
 ---
 
 - 🔭 I'm currently working on: developing predictive models using inverse physics informed neural network for esimating some scientific parameters of Food process modelling!
